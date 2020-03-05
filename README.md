@@ -26,15 +26,3 @@ The calorie chain is implemented by golang. Bernoulli blockchain &amp; Intellige
 Calorie is a highly modular and pluggable blockchain architecture. It provides the best scheme and choice for engineers to issue digital currency or public chain. Calorie chain has created "planetary chain" to solve the shortcomings of the previous chain not interworking, and introduced the concept of smart contract 3.0, which can introduce the data out of the chain into the smart contract, so that the smart contract becomes more practical.
 
 
-## 💡Todo
-
-- Custom node address.
-
-- Custom cryptocurrencies.
-
-- Support smart contract multi-method.
-
-- Support smart contract deployment.
-
-
-# QkBill-admin
