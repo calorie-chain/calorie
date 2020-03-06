@@ -47,6 +47,5 @@ Welcome to the calorie developer community. There are many excellent golang engi
 
 ## White paper
 
-[Click here to read the calorie white paper V1.3](./white paper.pdf)
-
+[calorie white paper v1.3](./whtie-paper.pdf)
 
