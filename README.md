@@ -43,3 +43,10 @@ Calorie is a highly modular and pluggable blockchain architecture. It provides t
 
 Welcome to the calorie developer community. There are many excellent golang engineers and blockchain enthusiasts. Here, you will get technical support to help you develop all kinds of dapps around the calendar. At the same time, you can issue your own token on the calorie, or build your own independent parallel chain, and carry out ecological construction on your own parallel chain.
 
+
+
+## White paper
+
+[Click here to read the calorie white paper V1.3](./white paper.pdf)
+
+
