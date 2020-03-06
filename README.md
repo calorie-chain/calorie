@@ -30,8 +30,11 @@ Calorie is a highly modular and pluggable blockchain architecture. It provides t
 ## Features of calorie
 
 ● Hybrid blockchain architecture
+
 ● Distributable parallel chain
+
 ● Access to data outside the chain
+
 ● Atomic transaction (cross chain transaction)
 
 
