@@ -19,6 +19,17 @@ Make blockchain business applications truly secure, privacy stable
 Calorie is a kind of cryptocurrency based on blockchain. It is issued based on calorie chain and adopts the Proof of Stake（PoS） mining system. Calorie ensures that no one or group can control transactions or make changes to balance increases or rapes without community involvement. The unit of currency is called (CAL).
 
 
+| **Specification** | **Value** |
+|:-----------|:-----------|
+| Hashing algo | `NIST5` |
+| Total Blocks | `100000000` |
+| Block Size | `100KB` |
+| Block Time | `6s` |
+| PoS Reward | `6 calorie` |
+| Rewards Halved | `9413191` |
+
+
+
 
 ## What is calorie ？
 
