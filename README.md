@@ -21,7 +21,7 @@ Calorie is a kind of cryptocurrency based on blockchain. It is issued based on c
 
 | **Specification** | **Value** |
 |:-----------|:-----------|
-| Consensus | `Pos` |
+| Consensus | `PoS` |
 | Total Coin | `100000000` |
 | Block Size | `100KB` |
 | Block Time | `6s` |
